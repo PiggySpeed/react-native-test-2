@@ -40,9 +40,9 @@ const styles = StyleSheet.create({
   innerContainer: {
     flex: 1
   },
-
   preview: {
     flex: 1,
+    height: 500,
     justifyContent: 'flex-end',
     alignItems: 'center'
   },
